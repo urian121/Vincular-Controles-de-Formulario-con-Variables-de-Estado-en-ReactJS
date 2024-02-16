@@ -4,7 +4,7 @@
 
 ### Resultado final
 
-![](hhttps://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/vinculando-formulario-en-reactjs.png)
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/vinculando-formulario-en-reactjs.png)
 
 ### Expresiones de Gratitud 🎁
 
