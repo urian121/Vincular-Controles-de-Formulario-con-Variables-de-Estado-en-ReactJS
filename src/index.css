@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #222;
+}
+.row {
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+label {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.custom_list {
+  display: flex;
+  justify-content: flex-start;
+}
